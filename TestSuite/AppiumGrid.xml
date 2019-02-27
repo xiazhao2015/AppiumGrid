@@ -4,7 +4,7 @@
 	<test name="Real Device">
 	<parameter name="runAs" value="grid"></parameter>
 	<parameter name="platform" value="mobile"></parameter>
-	<parameter name="runOn" value="ZY25683TPXL"></parameter>
+	<parameter name="runOn" value="HKL4GX9A"></parameter>
 		<packages>
 			<package name="com.automation.testscripts"></package>
 		</packages>
@@ -12,7 +12,7 @@
 	<test name="Enmulator">
 	<parameter name="runAs" value="grid"></parameter>
 	<parameter name="platform" value="mobile"></parameter>
-	<parameter name="runOn" value="192.168.56.101:5555"></parameter>
+	<parameter name="runOn" value="NX0A370018"></parameter>
 		<packages>
 			<package name="com.automation.testscripts"></package>
 		</packages>
